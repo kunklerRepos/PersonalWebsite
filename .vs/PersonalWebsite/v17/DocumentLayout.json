@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\components\\projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\components\\projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\components\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\components\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\components\\freelancing.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\components\\freelancing.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -19,6 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Projects.jsx",
+              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\Projects.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Projects.jsx",
+              "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\Projects.jsx",
+              "RelativeToolTip": "src\\components\\Projects.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T21:01:22.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.jsx",
+              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\NavMenu.jsx",
+              "RelativeDocumentMoniker": "src\\components\\NavMenu.jsx",
+              "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\NavMenu.jsx",
+              "RelativeToolTip": "src\\components\\NavMenu.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T20:59:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "src\\components\\About.jsx",
+              "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\About.jsx",
+              "RelativeToolTip": "src\\components\\About.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T20:58:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Freelancing.jsx",
+              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\Freelancing.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Freelancing.jsx",
+              "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\Freelancing.jsx",
+              "RelativeToolTip": "src\\components\\Freelancing.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-02T20:57:42.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",

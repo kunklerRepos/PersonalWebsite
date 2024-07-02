@@ -3,6 +3,9 @@ import About from './About';
 import Footer from './footer';
 import Education from './Education';
 import Experience from './Experience';
+import Freelancing from './Freelancing';
+import Projects from './Projects';
+
 
 function NavMenu()
 {
@@ -19,7 +22,9 @@ function NavMenu()
     const pageObj = {
         'About': <About />,
         'Education': <Education />,
-        'Experience': <Experience/>
+        'Experience': <Experience />,
+        'Freelancing': <Freelancing />,
+        'Projects': <Projects/>
     }
 
     const [page, setPage] = useState('About');
@@ -35,7 +40,7 @@ function NavMenu()
                         <a onClick={ closeNav } className="closebtn" >×</a>
                         <a href="#" onClick={() => GoTo('About') }>About</a>
                         <a href="#" onClick={() => GoTo('Experience') }>Experience</a>
-                        <a href="#">Freelancing</a>
+                        <a href="#" onClick={() => GoTo('Freelancing') }>Freelancing</a>
                         <a href="#">Projects</a>
                         <a href="#" onClick={() => GoTo('Education') }>Education</a>
                     </div>
