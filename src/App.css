@@ -27,6 +27,11 @@ div span a {
 .headersTitles {
     font-family: 'Lora', serif;
 }
+.btn-design {
+    background-color: rgb(0,0,0,0.5);
+    border-radius: 15px;
+    color: white;
+}
 
 * {
     margin: 0px;
@@ -53,6 +58,10 @@ p {
     background-color: rgba(0, 0, 0, 0);
     border: transparent;
 }
+.cardClass:hover
+{
+    background-color: rgba(0,0,0,0.3);
+}
 
 .scroll {
     overflow-y: scroll;
@@ -65,11 +74,7 @@ p {
     font-weight: bold;
 }
 
-.btn-design {
-    background-color: rgb(0,0,0,0.5);
-    border-radius: 15px;
-    color: white;
-}
+
 
 footer {
     position: fixed;

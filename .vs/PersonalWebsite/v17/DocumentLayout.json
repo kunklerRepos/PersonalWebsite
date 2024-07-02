@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\components\\skillslist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\components\\skillslist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|c:\\contents\\personalwebsite_github\\personalwebsite\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{69C392E9-9B76-4BC9-9B2D-79C8B385C687}|personalwebsite.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
@@ -27,38 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SkillsList.jsx",
-              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\SkillsList.jsx",
-              "RelativeDocumentMoniker": "src\\components\\SkillsList.jsx",
-              "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\SkillsList.jsx",
-              "RelativeToolTip": "src\\components\\SkillsList.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-02T20:31:17.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Experience.jsx",
-              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\Experience.jsx",
-              "RelativeDocumentMoniker": "src\\components\\Experience.jsx",
-              "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\components\\Experience.jsx",
-              "RelativeToolTip": "src\\components\\Experience.jsx",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-02T17:38:59.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Contents\\PersonalWebsite_Github\\PersonalWebsite\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-07-02T17:31:59.757Z",
               "EditorCaption": ""

@@ -9,7 +9,7 @@ function SkillsList(props)
 
                 return (
                     <Fragment>
-                        <a classList="btn btn-design disabled" href="#">{skill}</a>
+                        <a className="btn btn-design disabled" href="#">{skill}</a>
                     </Fragment>
                 )
             })}

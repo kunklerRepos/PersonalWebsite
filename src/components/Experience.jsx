@@ -34,8 +34,9 @@ function Experience()
             {CompanyList.map(comp => {
                 return (
                     <Fragment>
+                        <a href={CompanyUrls[comp]} target="_blank">
                     <div className="d-flex align-items-center justify-content-center">
-                        <div className="card cardClass w-85" style={{ width: '50%' }}>
+                        <div className="card cardClass w-85" style={{ width: '70%' }}>
                             <div className="card-body">
                                     <h5 className="card-title textColor headersTitles">{comp}</h5>
                                     <h6 className="card-subtitle mb-2 textColor headersTitles">{workExperience[comp].split(",")[0]}</h6>
@@ -43,7 +44,8 @@ function Experience()
                                     <SkillsList skills={workSkills[comp]} />
                             </div>
                         </div>
-                        </div>
+                            </div>
+                        </a>
                     </Fragment>
                 )
             }) }
