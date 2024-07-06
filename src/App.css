@@ -1,0 +1,344 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    color: white 
+}
+
+    div span a:hover {
+        color: cyan;
+    }
+
+    a:hover
+    {
+        color: cyan;
+    }
+
+div span a {
+    text-decoration: none;
+    color: white;
+}
+
+.headersTitles {
+    font-family: 'Lora', serif;
+    
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    background-image: url("assets/Faded+Maps.jpg");
+    /**ackground-color: #301934;**/
+    background-size: cover;
+    overflow-y: scroll;
+    height: 100vh
+}
+
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cardClass {
+    background-color: rgba(0, 0, 0, 0);
+    border: transparent;
+}
+
+.scroll {
+    overflow-y: scroll;
+    height: 550px;
+    width: 100%;
+}
+
+.textColor {
+    color: white;
+    font-weight: bold;
+}
+
+.btn-design {
+    background-color: rgb(0,0,0,0.5);
+    border-radius: 15px;
+    color: white;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0,0,0,0.2);
+    color: white;
+    text-align: left;
+}
+
+    footer a {
+        color: white;
+    }
+
+ footer a i {
+     color: white;
+ }
+
+
+.css-transition {
+    -webkit-transition: all 0.8s ease-in-out;
+    -moz-transition: all 0.8s ease-in-out;
+    -o-transition: all 0.8s ease-in-out;
+    -ms-transition: all 0.8s ease-in-out;
+    transition: all 0.8s ease-in-out;
+}
+
+@-webkit-keyframes hinge {
+    0% {
+        -webkit-transform: rotate(0);
+        -webkit-transform-origin: top left;
+        -webkit-animation-timing-function: ease-in-out
+    }
+
+    20%,60% {
+        -webkit-transform: rotate(80deg);
+        -webkit-transform-origin: top left;
+        -webkit-animation-timing-function: ease-in-out
+    }
+
+    40% {
+        -webkit-transform: rotate(60deg);
+        -webkit-transform-origin: top left;
+        -webkit-animation-timing-function: ease-in-out
+    }
+
+    80% {
+        -webkit-transform: rotate(60deg) translateY(0);
+        opacity: 1;
+        -webkit-transform-origin: top left;
+        -webkit-animation-timing-function: ease-in-out
+    }
+
+    100% {
+        -webkit-transform: translateY(700px);
+        opacity: 0
+    }
+}
+
+@-moz-keyframes hinge {
+    0% {
+        -moz-transform: rotate(0);
+        -moz-transform-origin: top left;
+        -moz-animation-timing-function: ease-in-out
+    }
+
+    20%,60% {
+        -moz-transform: rotate(80deg);
+        -moz-transform-origin: top left;
+        -moz-animation-timing-function: ease-in-out
+    }
+
+    40% {
+        -moz-transform: rotate(60deg);
+        -moz-transform-origin: top left;
+        -moz-animation-timing-function: ease-in-out
+    }
+
+    80% {
+        -moz-transform: rotate(60deg) translateY(0);
+        opacity: 1;
+        -moz-transform-origin: top left;
+        -moz-animation-timing-function: ease-in-out
+    }
+
+    100% {
+        -moz-transform: translateY(700px);
+        opacity: 0
+    }
+}
+
+@-o-keyframes hinge {
+    0% {
+        -o-transform: rotate(0);
+        -o-transform-origin: top left;
+        -o-animation-timing-function: ease-in-out
+    }
+
+    20%,60% {
+        -o-transform: rotate(80deg);
+        -o-transform-origin: top left;
+        -o-animation-timing-function: ease-in-out
+    }
+
+    40% {
+        -o-transform: rotate(60deg);
+        -o-transform-origin: top left;
+        -o-animation-timing-function: ease-in-out
+    }
+
+    80% {
+        -o-transform: rotate(60deg) translateY(0);
+        opacity: 1;
+        -o-transform-origin: top left;
+        -o-animation-timing-function: ease-in-out
+    }
+
+    100% {
+        -o-transform: translateY(700px);
+        opacity: 0
+    }
+}
+
+@keyframes hinge {
+    0% {
+        transform: rotate(0);
+        transform-origin: top left;
+        animation-timing-function: ease-in-out
+    }
+
+    20%,60% {
+        transform: rotate(80deg);
+        transform-origin: top left;
+        animation-timing-function: ease-in-out
+    }
+
+    40% {
+        transform: rotate(60deg);
+        transform-origin: top left;
+        animation-timing-function: ease-in-out
+    }
+
+    80% {
+        transform: rotate(60deg) translateY(0);
+        opacity: 1;
+        transform-origin: top left;
+        animation-timing-function: ease-in-out
+    }
+
+    100% {
+        transform: translateY(700px);
+        opacity: 0
+    }
+}
+
+.animated.hinge {
+    -webkit-animation-duration: 2s;
+    -moz-animation-duration: 2s;
+    -o-animation-duration: 2s;
+    animation-duration: 2s
+}
+
+.hinge {
+    -webkit-animation-name: hinge;
+    -moz-animation-name: hinge;
+    -o-animation-name: hinge;
+    animation-name: hinge
+}
+
+#drop {
+    position: relative;
+}
+
+
+.floatingEffect {
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+
+@keyframes floating {
+    0% {
+        transform: translateX(0px);
+    }
+
+    50% {
+        transform: translateX(-200px);
+    }
+
+    100% {
+        transform: translateX(400px);
+    }
+}
+
+
+.label {
+    display: inline-block;
+    cursor: pointer;
+    pointer-events: all;
+}
+
+
+
+.item {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+    top: 10px;
+    opacity: 50%;
+    transition: opacity 0.5s ease, top 0.5s ease;
+    transition-delay: 0;
+}
+
+span {
+    transition: color 0.5s ease;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.sidepanel {
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+    .sidepanel a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+    }
+
+        .sidepanel a:hover {
+            color: #f1f1f1;
+        }
+
+    .sidepanel .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+    }
+
+.openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+   
