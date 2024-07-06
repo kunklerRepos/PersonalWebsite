@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|c:\\contents\\personalwebsite_react\\personalwebsite\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|solutionrelative:src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|c:\\contents\\personalwebsite_react\\personalwebsite\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|c:\\contents\\personalwebsite_react\\personalwebsite\\src\\components\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|solutionrelative:src\\components\\navmenu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|c:\\contents\\personalwebsite_react\\personalwebsite\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|solutionrelative:src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|c:\\contents\\personalwebsite_react\\personalwebsite\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|c:\\contents\\personalwebsite_react\\personalwebsite\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F66C8A85-2E7D-4E51-876B-D688B1E2C556}|personalwebsite.esproj|solutionrelative:src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +22,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAAAEMBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T05:03:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "src\\components\\About.jsx",
+              "ToolTip": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\components\\About.jsx",
+              "RelativeToolTip": "src\\components\\About.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-06T05:01:07.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -47,55 +60,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-07-02T16:31:52.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\App.css",
-              "RelativeDocumentMoniker": "src\\App.css",
-              "ToolTip": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\App.css",
-              "RelativeToolTip": "src\\App.css",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-01T19:46:57.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "footer.jsx",
-              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\components\\footer.jsx",
-              "RelativeDocumentMoniker": "src\\components\\footer.jsx",
-              "ToolTip": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\components\\footer.jsx",
-              "RelativeToolTip": "src\\components\\footer.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-01T16:22:01.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.jsx",
-              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\components\\NavMenu.jsx",
-              "RelativeDocumentMoniker": "src\\components\\NavMenu.jsx",
-              "ToolTip": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\components\\NavMenu.jsx",
-              "RelativeToolTip": "src\\components\\NavMenu.jsx",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-01T14:59:25.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\App.jsx",
-              "RelativeDocumentMoniker": "src\\App.jsx",
-              "ToolTip": "C:\\Contents\\PersonalWebsite_React\\PersonalWebsite\\src\\App.jsx",
-              "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-01T14:56:37.831Z"
             }
           ]
         }
